@@ -10,13 +10,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jorgecis/ShortcutPlugin.git"
+    "url": "git+https://github.com/jorgecis/ShortcutPlugin.git"
   },
+  "keywords": [
+    "cordova",
+    "shortcut",
+    "jorgecis",
+    "cordova-android"
+  ],
   "engines": [
     {
       "name": "cordova",
       "version": ">=3.0.0"
     }
   ],
-  "license": "MIT"
+  "author": "jorgecis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgecis/ShortcutPlugin/issues"
+  },
+  "homepage": "https://github.com/jorgecis/ShortcutPlugin#readme"
 }
