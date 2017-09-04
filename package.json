@@ -1,0 +1,22 @@
+{
+  "name": "com.plugins.shortcut",
+  "version": "0.1.1",
+  "description": "<p>This is the plugin to create/delete Shortcuts (Android) in Apache Cordova/PhoneGap!</p><p>The Shortcut plugin for Apache Cordova allows you to create or delete the shortcut in the home of any andorid device.</p>",
+  "cordova": {
+    "id": "com.plugins.shortcut",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorgecis/ShortcutPlugin.git"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT"
+}
